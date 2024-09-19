@@ -1,7 +1,6 @@
 ## Hello World !  👋
 
 
-Software Engineer
 -----------------
 
 ### Skills
